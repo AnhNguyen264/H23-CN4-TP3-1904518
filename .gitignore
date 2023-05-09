@@ -15,9 +15,12 @@
 
 # Mono auto generated files
 mono_crash.*
+bin/debug/*.*
+!bin/[Dd]ebug/Chansons
+!bin/[Dd]ebug/Chansons avec bugs
 
 # Build results
-[Dd]ebug/
+#[Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
